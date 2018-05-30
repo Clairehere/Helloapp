@@ -21,7 +21,7 @@
     <br>
 
     Heure : <br>
-    <input type="datetime-local" name="date" >
+    <input type="number" name="date" >
     <br>
 
     <input type="submit" value="Envoyer">
